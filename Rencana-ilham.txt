@@ -9,4 +9,6 @@ RENCANA ILHAM
  ^ Repository
  ^ insight
 -Belajar Pyhton
--Belajar PHP
+-Belajar Javascript
+ ^ alert
+ ^ looping
