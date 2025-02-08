@@ -4,9 +4,7 @@ RENCANA ILHAM
  ^ Paragraf
  ^ Line
 -Belajar CSS
- ^ ukuran
 -Belajar github
  ^ Repository
- ^ Insights
 -Belajar Pyhton
 -Belajar PHP
