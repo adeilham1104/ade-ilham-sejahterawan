@@ -8,3 +8,4 @@ RENCANA ILHAM
  ^ Repository
 -Belajar Pyhton
 -Belajar Javascript
+ ^ alert
