@@ -7,5 +7,6 @@ RENCANA ILHAM
  ^ ukuran
 -Belajar github
  ^ Repository
+ ^ Insights
 -Belajar Pyhton
 -Belajar PHP
