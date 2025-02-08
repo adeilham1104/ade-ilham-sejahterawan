@@ -1,6 +1,8 @@
 RENCANA ILHAM
 
 -Belajar HTML
+ ^ Paragraf
+ ^ Line
 -Belajar CSS
 -Belajar github
  ^ Repository
